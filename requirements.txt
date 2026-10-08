@@ -1,0 +1,5 @@
+flet
+flet_datatable2
+pandas
+pyconify
+pdfplumber
